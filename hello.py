@@ -1,5 +1,6 @@
-// Fir command line git tutorial
+// For command line git tutorial
 // local repository modification
+// github repository modification
 print("Hello world")
 print("Tell your world")
 print("Tell his world")
